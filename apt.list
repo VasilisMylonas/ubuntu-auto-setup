@@ -1,6 +1,5 @@
 fonts-hack
 fonts-firacode
-ubuntu-restricted-extras
 htop
 mlocate
 zsh
@@ -23,7 +22,6 @@ gdebi
 lm-sensors
 nodejs
 npm
-code
 audacity
 virtualbox
 obs-studio
@@ -31,3 +29,4 @@ libreoffice
 steam
 lutris
 vlc-plugin-fluidsynth
+nautilus-admin
